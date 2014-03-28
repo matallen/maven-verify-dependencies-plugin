@@ -1,0 +1,7 @@
+<project>
+		<dependency>
+			<groupId>jboss-enterprise.eap.lib</groupId>
+			<artifactId>servlet-api</artifactId>
+			<version>6.1.0.GA</version>
+		</dependency>
+</project>
